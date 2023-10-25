@@ -10,7 +10,7 @@
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Mariela González López
 ## 10 A
-## Incorporación de calificación y año de publicación de las peliculas
+## Implementación del Poster, titulo, descripción y valoración de Peliculas en detalles
 &nbsp;
 &nbsp;
 |  Características |  Información |
